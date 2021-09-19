@@ -1,0 +1,77 @@
+html,
+body {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: auto;
+    overflow: hidden;
+}
+
+/* .header 
+
+.logo 
+
+.menu */
+
+.menu__item {
+    font-family: "MuseoSansCyrl-700";
+    font-size: 22px;
+    line-height: 26px;
+    color: #F8EEE4;
+}
+
+/* .hamburger-menu {
+    display: none;
+} */
+
+/* .menu__btn 
+
+.menu-box  */
+
+.menu-box__item {
+    font-family: "MuseoSansCyrl-700";
+    font-size: 30px;
+    line-height: 36px;
+    color: #000;    
+}
+
+/* .main-section 
+
+.main__content  */
+
+.main__title {
+    font-family: "PTSerif-Bold";
+    font-size: 200px;
+    line-height: 265px;
+    color: #F8EEE4;
+}
+
+.main__subtitle {
+    font-family: "PTSerif-Bold";
+    font-size: 70px;
+    line-height: 93px;
+    color: #F8EEE4;
+    
+}
+
+.main__text {
+    font-family: "MuseoSansCyrl-500";
+    font-size: 16px;
+    line-height: 19px;
+    color: #F8EEE4;
+}
+
+.main__button {
+    font-family: "MuseoSansCyrl-700";
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+/* .gallery */
